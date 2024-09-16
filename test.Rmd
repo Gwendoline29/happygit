@@ -1,0 +1,12 @@
+---
+title: "Test of iris and cars"
+output: github_document
+---
+
+```{r}
+plot(cars)
+```
+
+```{r}
+plot(iris)
+```
